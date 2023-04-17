@@ -1,0 +1,69 @@
+.about{
+    padding: 40px;
+    padding-top: 100px;
+}
+#header{
+    background: rgba(6, 12, 34, 0.98);
+    
+}
+
+.heading{
+    padding: 20px;
+    padding-top: 70px;
+}
+.Contactus{
+    margin-top: 20px;
+    padding-top: 50px;
+    
+
+}
+.abo{
+    margin-top: 30px;
+    font-weight: 1100;
+
+}
+.jntuh{
+    float: right;
+    margin: 30px;
+    margin-bottom: 70px;
+}
+
+.head2{
+    font-weight: 1100px;
+}
+.text{
+    padding: 20px;
+    margin: 20px;
+}
+.about-pragnya{
+    margin: 20px;
+    padding: 20px;
+}
+.query{
+    background-color: antiquewhite;
+    padding: 20px;
+    margin: 16px;
+    padding-bottom: 30px;
+    border-radius: 12px;
+}
+@media screen and (max-width: 480px) {
+    .about-pragnya{
+       
+        padding: 20px;
+        margin: 0px;
+    }
+    .text{
+        padding: 20px;
+        margin: 0px;
+        
+    }
+    .jntuh{
+        display: none;
+        float: left;
+        text-align: center;
+        
+        margin-bottom: 30px;
+    }
+    
+
+  }
